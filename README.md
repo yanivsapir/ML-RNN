@@ -38,3 +38,4 @@ Our code End-To-End is the file `RunCode.py`
 ##Result
 Because of the lack of time we ran the code only twice and we think we got an interesting results:
 
+![accuracy](https://github.com/yanivsapir/ML-RNN/blob/master/accuracy.png)
