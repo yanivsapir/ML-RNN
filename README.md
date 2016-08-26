@@ -9,7 +9,9 @@ Tamir Amid
 This project is about experiencing with long short-term memory (LSTM) algorithm which is a recurrent neural network (RNN) algorithm.
 
 ##References
-We followed [this article](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) which was very intuitive.
+* [RNN Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* [RNN toy example](https://www.youtube.com/watch?v=z61VFeALk3o)
+* We followed [this article](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) which was very intuitive.
 
 ##Main Packages
 In this project we used:
